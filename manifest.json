@@ -1,0 +1,23 @@
+{
+    "name": "Famil",
+    "short_name": "Famil",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "I’m a flutter developer in 3+ years of experience in interface/mobile app development across-platform. In my experience, I was able to develop a complete mobile app. I’m passionate about converting the design into code and user experience research to ensure quality.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
